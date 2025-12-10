@@ -8,3 +8,4 @@ requests==2.3.0
 six==1.6.1
 sure==1.2.7
 nose
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
